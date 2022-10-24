@@ -1,0 +1,5 @@
+# IDE setting
+.idea/
+
+# build
+*/target/*
